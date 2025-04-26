@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex report"] 1745660251.35388 "report.aux" "report.bbl" "report" 1745660256.00823 0
+["bibtex report"] 1745660251.35388 "report.aux" "report.bbl" "report" 1745665676.36992 0
   "./refs/example.bib" 1745660025 1351 32b2d7aea96a3fc9e7ba69c017081b7e ""
   "C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "report.aux" 1745660254 3049 d19d66a3330f9c7ec279b8cb51d0f390 "pdflatex"
+  "report.aux" 1745665675 3049 d19d66a3330f9c7ec279b8cb51d0f390 "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1745660251.76041 "d:/3.Stats/Assignment/git/Stats/report.tex" "report.pdf" "report" 1745660256.00893 0
+["pdflatex"] 1745665672.14384 "d:/3.Stats/Assignment/git/Stats/report.tex" "report.pdf" "report" 1745665676.3705 0
   "C:/Users/vieth/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1745123484 88371 b965f57369ed322039596060d18f4416 ""
   "C:/Users/vieth/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tctt1095.pk" 1745652020 10392 90ae91705d5a1d656d8d9226759a6a90 ""
   "C:/Users/vieth/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1734876853 11989474 0f0f6d70a77b8a8d20ed5e6a504a4883 ""
@@ -254,7 +254,7 @@
   "C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
   "chapters/1_PrjkOverview.tex" 1745660025 1397 53b301d8b4b47a9cb1424bbaed961158 ""
-  "chapters/2_Foundation.tex" 1745660244 45 723ff9ec51084ae6a0265199105b3301 ""
+  "chapters/2_Foundation.tex" 1745665671 57 ac9a091340fcbd749aba03d94e31766e ""
   "chapters/3_DataPreprocess.tex" 1745660025 275 cb2f892369a163f55b94d053e4e1ef47 ""
   "chapters/4_Descriptive.tex" 1745660025 32 a55dee0132d4d743590109bdf9d01c98 ""
   "chapters/5_Inferential.tex" 1745660025 32 2f6a4750ca9e6abab85eca6930c653b6 ""
@@ -265,11 +265,11 @@
   "d:/3.Stats/Assignment/git/Stats/report.tex" 1745660025 3489 15abaf6fa5829e5452d0e64b0c30dce8 ""
   "graphics/hcmut.png" 1745660025 100724 34813e7945d25073d2021fd11a318249 ""
   "hcmut-report.cls" 1745660025 4985 7c2a74f1d77cb04a5ce340cfc1ed499d ""
-  "report.aux" 1745660254 3049 d19d66a3330f9c7ec279b8cb51d0f390 "pdflatex"
+  "report.aux" 1745665675 3049 d19d66a3330f9c7ec279b8cb51d0f390 "pdflatex"
   "report.bbl" 1745660251 144 a08339234e12857f995de83993cb7b98 "bibtex report"
-  "report.out" 1745660254 2001 80582b28927673f0946d3202fee26f04 "pdflatex"
+  "report.out" 1745665675 2001 80582b28927673f0946d3202fee26f04 "pdflatex"
   "report.tex" 1745660025 3489 15abaf6fa5829e5452d0e64b0c30dce8 ""
-  "report.toc" 1745660254 1133 21d65231a1ed81e5300620b89b7e13d3 "pdflatex"
+  "report.toc" 1745665675 1133 21d65231a1ed81e5300620b89b7e13d3 "pdflatex"
   (generated)
   "report.aux"
   "report.log"
