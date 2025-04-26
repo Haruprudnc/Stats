@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.22)  26 APR 2025 16:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.22)  26 APR 2025 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1358,7 +1358,7 @@ File: graphics/hcmut.png Graphic file (type png)
 Package pdftex.def Info: graphics/hcmut.png  used on input line 122.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 [6]
-runsystem(latexminted cleantemp  --timestamp 20250426163732 E98D2F001DA5678B39482EFBDF5770DC)...disabled (restricted).
+runsystem(latexminted cleantemp  --timestamp 20250426170141 E98D2F001DA5678B39482EFBDF5770DC)...disabled (restricted).
 
  (report.aux)
  ***********
@@ -1371,13 +1371,13 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 Here is how much of TeX's memory you used:
  40137 strings out of 473650
  827866 string characters out of 5717455
- 1702036 words of memory out of 5000000
+ 1702045 words of memory out of 5000000
  62514 multiletter control sequences out of 15000+600000
  582289 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,25n,107p,520b,2777s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\vieth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt1095.pk><C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/fonts/type1/vntex/vnr/vnitt10.pfb><C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/fonts/type1/vntex/vnr/vnr6.pfb><C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/vieth/OneDrive/Documents/Apps/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on report.pdf (6 pages, 167574 bytes).
+Output written on report.pdf (6 pages, 167586 bytes).
 PDF statistics:
  215 PDF objects out of 1000 (max. 8388607)
  68 named destinations out of 1000 (max. 500000)
